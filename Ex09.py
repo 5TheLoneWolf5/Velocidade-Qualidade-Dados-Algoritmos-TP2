@@ -1,3 +1,9 @@
+"""
+
+Esta função utiliza o algoritmo Bubble Sort para ordenar uma lista.
+
+"""
+
 def ordenar_inteiros(list):
     n = len(list)
     

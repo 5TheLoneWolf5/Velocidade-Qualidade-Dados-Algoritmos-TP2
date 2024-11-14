@@ -1,3 +1,9 @@
+"""
+
+Este código conta quantos livros possuem identificação par.
+
+"""
+
 def qtd_livros_id_par(list_id):
 
     totalOdds = 0

@@ -1,3 +1,5 @@
+# Em cada iteração exterior do loop presente na função ordenar_avaliacoes, há uma condição para encontrar o menor número e o colocar na primeira posição não ordenada (desde que a condição seja verdadeira).
+
 def ordenar_avaliacoes(list):
     size = len(list)
 
@@ -16,5 +18,3 @@ pilhaAvaliacoes = [10, 7.4, 9.5, 8.2, 7.8, 6, 4.5, 2.5]
 ordenar_avaliacoes(pilhaAvaliacoes)
 
 print(pilhaAvaliacoes)
-
-# Cada iteração principal encontra o menor número e o coloca na posição primeira posição não ordenada.

@@ -1,3 +1,9 @@
+"""
+
+Esta função inverte os extremos de uma fila e retorna o resultado.
+
+"""
+
 def inverter_fila(fila_pacientes):
     fila_invertida = fila_pacientes
     

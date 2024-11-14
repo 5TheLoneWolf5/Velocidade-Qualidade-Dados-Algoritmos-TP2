@@ -1,3 +1,10 @@
+"""
+
+Esta função executa a tarefa simples de calcular quantos números ímpares há em uma lista.
+
+"""
+
+
 def pedidos_impares(list):
         totalOdds = 0
         

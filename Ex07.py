@@ -1,3 +1,10 @@
+"""
+
+Esta função executa a tarefa simples de calcular quantos números pares há em uma lista.
+
+"""
+
+
 def pedidos_pares(list):
         totalEvens = 0
         

@@ -1,3 +1,10 @@
+"""
+
+O código abaixo faz a implementação de uma Tabela Hash.
+
+"""
+
+
 class TabelaHash:
     def __init__(self, capacity = 10):
         self.capacity = capacity

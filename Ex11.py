@@ -1,3 +1,9 @@
+"""
+
+O código abaixo faz a implementação de uma Fila.
+
+"""
+
 class FilaAtendimento:
     def __init__(self, capacity = 10):
         self.capacity = capacity

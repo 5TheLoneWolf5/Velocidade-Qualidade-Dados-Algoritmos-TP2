@@ -1,3 +1,10 @@
+"""
+
+Obtendo o item do topo de uma pilha, sem removê-lo.
+
+"""
+
+
 def tarefa_no_topo(pilha_de_tarefas):
     return pilha_de_tarefas[-1]
 
