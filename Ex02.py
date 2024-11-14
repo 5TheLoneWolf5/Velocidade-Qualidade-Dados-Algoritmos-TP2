@@ -2,6 +2,10 @@
 
 A complexidade de tempo desse algoritmo de ordenação (Quicksort) de é O(n log n) no melhor caso, e O(n^2) no pior caso.
 
+O algoritmo Quicksort funciona por particionar uma coleção de dados em torno de um pivô (geralmente sendo o último elemento). Os menores elementos na chamada ficam à esquerda do pivô, e os maiores ficam à direita do pivô. Depois disso, as partições se reúnem em uma única e ordenada coleção.
+
+Esta é uma forma muito eficiente de ordenar grandes quantidades de dados.
+
 """
 
 import random
